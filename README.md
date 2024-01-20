@@ -3,7 +3,7 @@
 ## // run the below command in the terminal to clone the root directory(git repo)
 
 
-git clone git@github.com:chihoon1/deep_learning.git
+git clone https://github.com/chihoon1/deep_learning.git
 
 ## // run two commands below to fetch all the subdirectories(submodule git repo) in the deep_learning git repo
 
