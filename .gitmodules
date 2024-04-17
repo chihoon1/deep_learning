@@ -1,3 +1,6 @@
 [submodule "machine_translation"]
 	path = machine_translation
 	url = git@github.com:chihoon1/machine_translation.git
+[submodule "noisy_image_classification"]
+	path = noisy_image_classification
+	url = git@github.com:chihoon1/noisy_image_classification.git
